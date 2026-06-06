@@ -1,6 +1,8 @@
 # FinanceHub - Personal Finance Management System
 
 A comprehensive MERN full-stack application for managing personal finances, investments, and loans with real-time analytics and visualizations.
+<img width="948" height="443" alt="financeimg" src="https://github.com/user-attachments/assets/728a600c-a8c6-4e07-af90-17dffd96d6e2" />
+
 
 ## 🌟 Features
 
@@ -10,6 +12,8 @@ A comprehensive MERN full-stack application for managing personal finances, inve
 - Filter expenses by date, category, and amount
 - Add custom tags for better organization
 - View expense history and trends
+- <img width="902" height="436" alt="Screenshot 2026-06-06 144108" src="https://github.com/user-attachments/assets/a544e79b-c269-40d8-a61f-6bf87fd6a32e" />
+
 
 ### 2. **Personal Finance Manager** 📊
 - Manage multiple bank accounts (checking, savings, credit)
@@ -17,6 +21,8 @@ A comprehensive MERN full-stack application for managing personal finances, inve
 - Monitor budget limits per category
 - Visual budget vs spending analysis
 - Multi-currency support
+- <img width="947" height="452" alt="Screenshot 2026-06-05 180651" src="https://github.com/user-attachments/assets/1aa48444-46a1-4665-a66e-4af8c98ca696" />
+
 
 ### 3. **Stock Portfolio Tracker** 📈
 - Track stock holdings with real-time prices
@@ -24,6 +30,8 @@ A comprehensive MERN full-stack application for managing personal finances, inve
 - Portfolio performance analytics
 - Weekly performance charts
 - Top performers identification
+- <img width="949" height="445" alt="Screenshot 2026-06-05 181123" src="https://github.com/user-attachments/assets/a1e74361-30a9-431d-8269-32c3b8775c58" />
+
 
 ### 4. **Cryptocurrency Dashboard** ₿
 - Manage crypto holdings across exchanges
@@ -31,6 +39,11 @@ A comprehensive MERN full-stack application for managing personal finances, inve
 - Portfolio value monitoring
 - Market overview with top cryptocurrencies
 - 24-hour price history charts
+- <img width="944" height="457" alt="Screenshot 2026-06-05 181403" src="https://github.com/user-attachments/assets/694f7441-7eae-476b-8978-97c3573e5e86" />
+
+<img width="940" height="440" alt="Screenshot 2026-06-05 181317" src="https://github.com/user-attachments/assets/514f1365-435c-485c-bb9a-c570623158d7" />
+
+
 
 ### 5. **Loan Management System** 🏦
 - Track multiple loans (mortgage, auto, student, personal)
@@ -38,6 +51,8 @@ A comprehensive MERN full-stack application for managing personal finances, inve
 - Monitor payoff progress with visual indicators
 - Payment schedule planning
 - Debt payoff strategies (Snowball & Avalanche)
+- <img width="945" height="445" alt="Screenshot 2026-06-05 181620" src="https://github.com/user-attachments/assets/84832ef4-7059-4e90-89ec-9cc8928c90e2" />
+
 
 ## 🛠️ Tech Stack
 
@@ -465,6 +480,8 @@ This application is designed for personal finance tracking and educational purpo
 ---
 
 Made with ❤️ by the FinanceHub Team
-#   F i n a n c e h u b . m e r n s t a c k  
- #   F i n a n c e H u b - f r o n t e n d  
+#   F i n a n c e h u b . m e r n s t a c k 
+ 
+ #   F i n a n c e H u b - f r o n t e n d 
+ 
  
